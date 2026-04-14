@@ -70,8 +70,9 @@ body {
 
 .image {
     max-width: 400px;
-    height: 400px;
+    max-height: 200px;
     padding-right: 150px;
+
 }
 
 /* Konten 1 END */
