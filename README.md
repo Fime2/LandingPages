@@ -6,3 +6,6 @@ Odin Project Landing Pages
 - Mempelajari dasar dasar CSS dalam pembuatan Landing Pages
 - Menghubungkan HTML ke CSS
 - Membuat sketsa dalam CSS sesuai ketentuan ODIN
+
+** #Livepreview**
+ https://fime2.github.io/LandingPages/
